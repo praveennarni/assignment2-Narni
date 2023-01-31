@@ -17,4 +17,4 @@ Unordered list
 * Royal Challengers Banglore
 * Sunrisers Hyderabad
 
-[Click here for AboutMe](https://github.com/praveennarni/assignment2-Narni/blob/main/AboutMe.md)
+[Click here for AboutMe](AboutMe.md)
