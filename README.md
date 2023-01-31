@@ -13,7 +13,6 @@ Mumbai Indians
 3. Suryakumar Yadav
 
 Unordered list
----------
 * Chennai Superkings 
 * Royal Challengers Banglore
 * Sunrisers Hyderabad
