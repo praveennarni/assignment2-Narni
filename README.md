@@ -31,9 +31,27 @@ Travel exposes us to different cultures and ancient traditions and through these
 |United Kingdom| London is a fashion hub | 30 |
 |Australia|Great Barrier Reef,the hallmark of this place is 'Iavish' and 'beauty'  |   30   |
 
-## Pithy Quotes 
+Pithy Quotes 
+-----------------
 >“The best kind of praise is intelligent praise.”
  ―*Rachel Heffington*
 
 >“It's always darkest before you're blinded by the light”
  ―*josh stern*
+
+Code Fencing
+-------------
+>Let's go to Stack Overflow<https://stackoverflow.com/questions/41549370/friendly-url-for-multiple-and-long-queries>
+
+```
+<?php
+
+  function rkv_url_spamcheck( $approved , $commentdata ) {
+    return ( strlen( $commentdata['comment_author_url'] ) > 50 ) ? 'spam' : $approved;
+  }
+
+  add_filter( 'pre_comment_approved', 'rkv_url_spamcheck', 99, 2 );
+
+?>
+```
+Click here for the source<https://css-tricks.com/snippets/wordpress/spam-comments-with-very-long-urls/>
