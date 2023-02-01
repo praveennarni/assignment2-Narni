@@ -43,11 +43,11 @@ Code Fencing
 -------------
 >Wordpress: Separating featured image from products gallery
 
-Let's go to Stack Overflow<https://stackoverflow.com/questions/75269999/wordpress-separating-featured-image-from-products-gallery>
+Let's go to Stack Overflow <https://stackoverflow.com/questions/75269999/wordpress-separating-featured-image-from-products-gallery>
 
 ```
 $thumb_id = get_post_thumbnail_id();
 $thumb_url_array = wp_get_attachment_image_src($thumb_id, 'thumbnail-size', true);
 $thumb_url = $thumb_url_array[0];
 ```
-Click here for the source<https://css-tricks.com/snippets/wordpress/spam-comments-with-very-long-urls/>
+Click here for the source <https://css-tricks.com/snippets/wordpress/spam-comments-with-very-long-urls/>
