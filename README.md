@@ -26,7 +26,7 @@ Travel exposes us to different cultures and ancient traditions and through these
 
 | Country Name | Reason | Number of Days |
 |:-------------------:|:------:|:------------:|
-|  India       | To explore different cultures and traditions |60 days|
+|  India       | To explore different cultures and traditions |60 |
 |USA|It is the best place for Technology| 90|
 |United Kingdom| London is a fashion hub | 30 |
 |Australia|Great Barrier Reef,the hallmark of this place is 'Iavish' and 'beauty'  |   30   |
