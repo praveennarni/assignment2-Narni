@@ -19,16 +19,16 @@ Unordered list
 
 [Click here for AboutMe](AboutMe.md)
 
-        Travel exposes us to different cultures and ancient traditions and through these authentic encounters, we learn to embrace and celebrate both our similarities and our differences. Travel teaches us about humanity and gives us an appreciation, understanding and respect for different points of view and ways of life.
+Travel exposes us to different cultures and ancient traditions and through these authentic encounters, we learn to embrace and celebrate both our similarities and our differences.
 
 ## Table
 ----------
 
 | Country Name | Reason | Number of Days |
-|:-------------------:|:------:|:--------------:|
+|:-------------------:|:------:|:------------:|
 |  India       | To explore different cultures and traditions |60 days|
-|USA|There are some good places like Niagara Falls is popular for its view| 90|
-|   United Kingdom| London is a fashion hub | 30   |
-|         Australia | Great Barrier Reef,the hallmark of this place is 'Iavish' and 'beauty'   |   30   |
+|USA|It is the best place for Technology| 90|
+|United Kingdom| London is a fashion hub | 30 |
+|Australia|Great Barrier Reef,the hallmark of this place is 'Iavish' and 'beauty'  |   30   |
 
 
