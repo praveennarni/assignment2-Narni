@@ -32,7 +32,7 @@ Travel exposes us to different cultures and ancient traditions and through these
 |Australia|Great Barrier Reef,the hallmark of this place is 'Iavish' and 'beauty'  |   30   |
 
 ## Pithy Quotes
- > “The best kind of praise is intelligent praise.”
-―*Rachel Heffington*
-> “It's always darkest before you're blinded by the light”
-― *josh stern*
+>“The best kind of praise is intelligent praise.”
+ ―*Rachel Heffington*
+>“It's always darkest before you're blinded by the light”
+ ―*josh stern*
