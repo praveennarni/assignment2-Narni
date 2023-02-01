@@ -41,17 +41,13 @@ Pithy Quotes
 
 Code Fencing
 -------------
->Let's go to Stack Overflow<https://stackoverflow.com/questions/41549370/friendly-url-for-multiple-and-long-queries>
+>Wordpress: Separating featured image from products gallery
+
+Let's go to Stack Overflow<https://stackoverflow.com/questions/75269999/wordpress-separating-featured-image-from-products-gallery>
 
 ```
-<?php
-
-  function rkv_url_spamcheck( $approved , $commentdata ) {
-    return ( strlen( $commentdata['comment_author_url'] ) > 50 ) ? 'spam' : $approved;
-  }
-
-  add_filter( 'pre_comment_approved', 'rkv_url_spamcheck', 99, 2 );
-
-?>
+$thumb_id = get_post_thumbnail_id();
+$thumb_url_array = wp_get_attachment_image_src($thumb_id, 'thumbnail-size', true);
+$thumb_url = $thumb_url_array[0];
 ```
 Click here for the source<https://css-tricks.com/snippets/wordpress/spam-comments-with-very-long-urls/>
